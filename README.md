@@ -8,4 +8,4 @@ Welcome to my professional CV repository! This repository hosts the source code 
 This repository is a fork of the `online-cv` Jekyll theme, customized to present my professional profile. It's updated regularly with my latest professional achievements.
 
 ## Contact Me
-For professional inquiries, please contact me through [LinkedIn](https://www.linkedin.com/in/kamilkaczmareksolutions/) or write e-mail here: [E-mail](contact@kamilkaczmareksolutions.com).
+For professional inquiries, please contact me through [LinkedIn](https://www.linkedin.com/in/kamilkaczmareksolutions/) or write an e-mail here: [E-mail](mailto:contact@kamilkaczmareksolutions.com).
