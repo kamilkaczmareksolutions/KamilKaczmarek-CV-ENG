@@ -1,4 +1,4 @@
-# Kamil Kaczmarek's Professional CV
+# Kamil Kaczmarek's Professional CV (English)
 
 Welcome to my professional CV repository! This repository hosts the source code for my online CV, showcasing my skills, projects, and professional experiences.
 
