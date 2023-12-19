@@ -4,262 +4,151 @@
 
 sidebar:
     position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Kamil Kaczmarek
+    tagline: Innowacyjny Specjalista ds. Rozwiązywania Problemów i Inżynier Oprogramowania
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    email: contact@kamilkaczmareksolutions.com
+    phone: +48 516 526 487
+    website: #do not add http://
+    linkedin: kamilkaczmareksolutions
+    xing:
+    github: kamilkaczmareksolutions
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf:
 
     languages:
-      title: Languages
+      title: Języki
       info:
-        - idiom: English
+        - idiom: Polski
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
+        - idiom: English
+          level: Fluent
 
     interests:
-      title: Interests
+      title: Zainteresowania
       info:
-        - item: Climbing
+        - item: Tworzenie Oprogramowania
           link:
 
-        - item: Snowboarding
+        - item: AI i Uczenie Maszynowe
           link:
 
-        - item: Cooking
+        - item: Automatyzacja Procesów
           link:
 
 career-profile:
-    title: Career Profile
+    title: Profil Zawodowy
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Innowacyjny i wszechstronny profesjonalista zainteresowany tworzeniem rozwiązań spersonalizowanych pod klienta i rozwojem sztucznej inteligencji. 
+      Zaznajomiony z językiem Python w stopniu pozwalającym na tworzenie rozwiązań od zera, posiadający umiejętność optymalizacji procesów i mający doświadczenie w budowie procedur. 
+      Biegły w stosowaniu najnowocześniejszych technologii niezależnie od środowiska i warunków.
+
 education:
-    title: Education
+    title: Edukacja
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Licencjat z marketingu i sprzedaży
+        university: Uniwersytet WSB Merito Chorzów
+        time: 2020 - 2023
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Specjalizacja: e-commerce i sprzedaż w nowych mediach, mocne zainteresowanie tematyką AI. 
+          Praca licencjacka na temat: Wykorzystanie AI w działaniach marketingowych przedsiębiorstw - studium przypadku.
 
 experiences:
-    title: Experiences
+    title: Doświadczenie
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Właściciel
+        time: Styczeń 2023 - Obecnie
+        company: Kamil Kaczmarek Solutions
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          Obowiązki i mocne strony:
+          - Tworzenie oprogramowania na zamówienie, aplikacje oparte na modelach AI (głównie modele od OpenAI).
+          - Programowanie w Pythonie, prompt engeneering i Streamlit UI.
+          - Wykorzystanie API w różnorodnych projektach.
+          - Tworzenie i automatyzacja procesów i procedur, innowacyjne rozwiązania.
+          - Projektowanie i integracja systemów, ciągła nauka i stosowanie najnowszych technologii.
+      
+      - role: Koordynator Projektu
+        time: Listopad 2022 - Październik 2023
+        company: Alpha Workforce LTD, Rotterdam
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          Obowiązki i mocne strony:
+          - Koordynacja logistyki pracowników z wykorzystaniem narzędzi cyfrowych, w tym AI, Python, ActiveCampaign, flotman, optimoroute, Macro VBA (Excel) i inne.
+          - Zarządzanie projektem na dużą skalę z naciskiem na budowę procesów i procedur, w kolejnym kroku na automatyzację.
+          - Wdrażanie AI w codziennych zadaniach dla usprawnienia pracy i zarządzania (przede wszystkim delegowanie na AI powtarzalnych zadań, tworzenie prostych apek z UI).
+      
+      - role: Konsultant Marketingowy
+        time: Kwiecień 2020 - Listopad 2022
+        company: Freelance
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-
-certifications:
-      title: Certifications
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+          Obowiązki i mocne strony:
+          - Digital Marketing z wykorzystaniem GPT (ówcześnie generacja 2 i 3), budowa ChatBotów, Zapier, Macro VBA (Excel), różne managery reklam (Meta/TikTok).
+          - Opracowywanie i wdrażanie strategii świadomości marki online, zarządzanie systemami (np. Booksy, Moment).
+          - Kampanie mailingowe i SMS.
+          - Integracja systemów, planowanie strategiczne, reklama wieloplatformowa, zarządzanie relacjami z klientami.
+          - Biegłość w narzędziach i platformach cyfrowych, różnorodne projekty.
+      
+      - role: Kolekcjoner Danych
+        time: Kwiecień 2019 - Kwiecień 2020
+        company: FlightScope - European Golf Tour
+        details: |
+          Obowiązki i mocne strony:
+          - Wykonywanie pomiarów podczas turniejów golfowych European Tour, obsługa systemu GPS.
+          - Dostarczanie wysokiej jakości danych w czasie rzeczywistym dla bukmacherów, trenowanie Sieci Neuronowych, wysoka precyzja, doświadczenie międzynarodowe.
+          - Szybka obróbka danych, wysoka dokładność, umiejętność pracy w sytuacjach wysokiego stresu, adaptacja do różnych środowisk.    
 
 projects:
-    title: Projects
+    title: Projekty
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Rozwiązania programowe wykorzystujące AI i zarządzanie danymi.
+      Koncentruję się na praktycznych zastosowaniach, które usprawniają procesy i poprawiają UX.
+      Przede wszystkim zależy mi na budowie rozwiązań, które zrzucają z barków konieczność wykonywania powtarzalnych czynności.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Automatyzacja Researchu, Struktury Prezentacji i Narracji, czyli szkielet do serii filmów eukacyjnych
+        link: "#https://github.com/kamilkaczmareksolutions/Educational_Video_Series_Automation_Project"
+        tagline: "Projekt automatyzujący 80% pracy przy tworzeniu serii video edukacyjnych, wykorzystujący Custom GPTs, Pythona i DALL·E do tworzenia opracowań kompleksowych tematów. Tworzy angażujące treści edukacyjne w sposób sekwencyjny."
+      
+      - title: Generator Podpisów do Oprawionych Obrazów dla firmy JanAr na automacie
+        link: "#https://github.com/kamilkaczmareksolutions/JanAr"
+        tagline: "Aplikacja z GUI (Streamlit) wykorzystująca modele GPT do automatycznego generowania angażujących opisów do portfolio w mediach społecznościowych. Stworzona dla warsztatu szklarskiego i firmy zajmującej się oprawą obrazów 'JanAr', łączy moc GPT-4-Vision z zachęcającą do udzielania się pod postami strukturą."
+      
+      - title: Konfigurowalny generator przepisów na masę
+        link: "#https://github.com/kamilkaczmareksolutions/Recipe_Generator"
+        tagline: "Prosta aplikacja z GUI wykorzystująca API od OpenAI do generowania przepisów dostosowanych do indywidualnych celów użytkownika, mająca dużo opcji na konfigurację."
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Umiejętności i biegłość
 
     toolset:
-      - name: Python & Django
+      - name: Prompt engineering
         level: 98%
+      
+      - name: Automatyzacja i optymalizacja procesów
+        level: 88%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Excel (Macro & VBA)
+        level: 82%
 
-      - name: Angular
-        level: 98%
+      - name: Analiza i zarządzanie danymi
+        level: 78%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Rozwój oprogramowania
+        level: 74%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Python
+        level: 68%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    „Innowacyjność i wydajność. Pasjonat AI i technologii.”
