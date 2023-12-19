@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Kamil Kaczmarek
-    tagline: Innowacyjny Specjalista ds. Rozwiązywania Problemów i Inżynier Oprogramowania
+    tagline: Innovative Problem-Solving Specialist and Software Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -29,126 +29,126 @@ sidebar:
     pdf:
 
     languages:
-      title: Języki
+      title: Languages
       info:
-        - idiom: Polski
+        - idiom: Polish
           level: Native
 
         - idiom: English
           level: Fluent
 
     interests:
-      title: Zainteresowania
+      title: Interests
       info:
-        - item: Tworzenie Oprogramowania
+        - item: Software Development
           link:
 
-        - item: AI i Uczenie Maszynowe
+        - item: AI and Machine Learning
           link:
 
-        - item: Automatyzacja Procesów
+        - item: Process Automation
           link:
 
 career-profile:
-    title: Profil Zawodowy
+    title: Career Profile
     summary: |
-      Innowacyjny i wszechstronny profesjonalista zainteresowany tworzeniem rozwiązań spersonalizowanych pod klienta i rozwojem sztucznej inteligencji. 
-      Zaznajomiony z językiem Python w stopniu pozwalającym na tworzenie rozwiązań od zera, posiadający umiejętność optymalizacji procesów i mający doświadczenie w budowie procedur. 
-      Biegły w stosowaniu najnowocześniejszych technologii niezależnie od środowiska i warunków.
+      An innovative and versatile professional interested in creating customized client solutions and developing artificial intelligence. 
+      Familiar with Python to the extent of creating solutions from scratch, skilled in process optimization, and experienced in building procedures. 
+      Proficient in applying cutting-edge technologies regardless of the environment and conditions.
 
 education:
-    title: Edukacja
+    title: Education
     info:
-      - degree: Licencjat z marketingu i sprzedaży
-        university: Uniwersytet WSB Merito Chorzów
+      - degree: Bachelor's Degree in Marketing and Sales
+        university: WSB Merito University Chorzów
         time: 2020 - 2023
         details: |
-          Specjalizacja: e-commerce i sprzedaż w nowych mediach, mocne zainteresowanie tematyką AI. 
-          Praca licencjacka na temat: Wykorzystanie AI w działaniach marketingowych przedsiębiorstw - studium przypadku.
+          Specialization: E-commerce and sales in new media, strong interest in AI topics. 
+          Bachelor thesis on: The Use of AI in Marketing Activities of Enterprises - A Case Study.
 
 experiences:
-    title: Doświadczenie
+    title: Experience
     info:
-      - role: Właściciel
-        time: Styczeń 2023 - Obecnie
+      - role: Owner
+        time: January 2023 - Present
         company: Kamil Kaczmarek Solutions
         details: |
-          Obowiązki i mocne strony:
-          - Tworzenie oprogramowania na zamówienie, aplikacje oparte na modelach AI (głównie modele od OpenAI).
-          - Programowanie w Pythonie, prompt engeneering i Streamlit UI.
-          - Wykorzystanie API w różnorodnych projektach.
-          - Tworzenie i automatyzacja procesów i procedur, innowacyjne rozwiązania.
-          - Projektowanie i integracja systemów, ciągła nauka i stosowanie najnowszych technologii.
+          Responsibilities and strengths:
+          - Creating custom software, AI-based applications (mainly models from OpenAI).
+          - Programming in Python, prompt engineering, and Streamlit UI.
+          - Utilizing APIs in various projects.
+          - Creating and automating processes and procedures, innovative solutions.
+          - Designing and integrating systems, continuous learning and application of the latest technologies.
       
-      - role: Koordynator Projektu
-        time: Listopad 2022 - Październik 2023
+      - role: Project Coordinator
+        time: November 2022 - October 2023
         company: Alpha Workforce LTD, Rotterdam
         details: |
-          Obowiązki i mocne strony:
-          - Koordynacja logistyki pracowników z wykorzystaniem narzędzi cyfrowych, w tym AI, Python, ActiveCampaign, flotman, optimoroute, Macro VBA (Excel) i inne.
-          - Zarządzanie projektem na dużą skalę z naciskiem na budowę procesów i procedur, w kolejnym kroku na automatyzację.
-          - Wdrażanie AI w codziennych zadaniach dla usprawnienia pracy i zarządzania (przede wszystkim delegowanie na AI powtarzalnych zadań, tworzenie prostych apek z UI).
+          Responsibilities and strengths:
+          - Coordination of employee logistics using digital tools, including AI, Python, ActiveCampaign, flotman, optimoroute, Macro VBA (Excel), and others.
+          - Large-scale project management focusing on building processes and procedures, then automating them.
+          - Implementing AI in daily tasks to improve work and management efficiency (mainly delegating repetitive tasks to AI, creating simple apps with UI).
       
-      - role: Konsultant Marketingowy
-        time: Kwiecień 2020 - Listopad 2022
+      - role: Marketing Consultant
+        time: April 2020 - November 2022
         company: Freelance
         details: |
-          Obowiązki i mocne strony:
-          - Digital Marketing z wykorzystaniem GPT (ówcześnie generacja 2 i 3), budowa ChatBotów, Zapier, Macro VBA (Excel), różne managery reklam (Meta/TikTok).
-          - Opracowywanie i wdrażanie strategii świadomości marki online, zarządzanie systemami (np. Booksy, Moment).
-          - Kampanie mailingowe i SMS.
-          - Integracja systemów, planowanie strategiczne, reklama wieloplatformowa, zarządzanie relacjami z klientami.
-          - Biegłość w narzędziach i platformach cyfrowych, różnorodne projekty.
+          Responsibilities and strengths:
+          - Digital Marketing using GPT (then generation 2 and 3), building ChatBots, Zapier, Macro VBA (Excel), various ad managers (Meta/TikTok).
+          - Developing and implementing online brand awareness strategies, managing systems (e.g., Booksy, Moment).
+          - Email and SMS campaigns.
+          - System integration, strategic planning, multi-platform advertising, customer relationship management.
+          - Proficiency in digital tools and platforms, diverse projects.
       
-      - role: Kolekcjoner Danych
-        time: Kwiecień 2019 - Kwiecień 2020
+      - role: Data Collector
+        time: April 2019 - April 2020
         company: FlightScope - European Golf Tour
         details: |
-          Obowiązki i mocne strony:
-          - Wykonywanie pomiarów podczas turniejów golfowych European Tour, obsługa systemu GPS.
-          - Dostarczanie wysokiej jakości danych w czasie rzeczywistym dla bukmacherów, trenowanie Sieci Neuronowych, wysoka precyzja, doświadczenie międzynarodowe.
-          - Szybka obróbka danych, wysoka dokładność, umiejętność pracy w sytuacjach wysokiego stresu, adaptacja do różnych środowisk.    
+          Responsibilities and strengths:
+          - Performing measurements during European Tour golf tournaments, operating the GPS system.
+          - Providing high-quality real-time data for bookmakers, training Neural Networks, high precision, international experience.
+          - Fast data processing, high accuracy, ability to work under high stress, adaptation to various environments.    
 
 projects:
-    title: Projekty
+    title: Projects
     intro: >
-      Rozwiązania programowe wykorzystujące AI i zarządzanie danymi.
-      Koncentruję się na praktycznych zastosowaniach, które usprawniają procesy i poprawiają UX.
-      Przede wszystkim zależy mi na budowie rozwiązań, które zrzucają z barków konieczność wykonywania powtarzalnych czynności.
+      Software solutions utilizing AI and data management.
+      I focus on practical applications that streamline processes and improve UX.
+      Above all, I am dedicated to building solutions that relieve the burden of performing repetitive tasks.
     assignments:
-      - title: Automatyzacja Researchu, Struktury Prezentacji i Narracji, czyli szkielet do serii filmów eukacyjnych
+      - title: Research Automation, Presentation Structure, and Narration, or the skeleton for a series of educational films
         link: "https://github.com/kamilkaczmareksolutions/Educational_Video_Series_Automation_Project"
-        tagline: "Projekt automatyzujący 80% pracy przy tworzeniu serii video edukacyjnych, wykorzystujący Custom GPTs, Pythona i DALL·E do tworzenia opracowań kompleksowych tematów. Tworzy angażujące treści edukacyjne w sposób sekwencyjny."
+        tagline: "A project automating 80% of the work in creating educational video series, using Custom GPTs, Python, and DALL·E to create comprehensive topic outlines. Produces engaging educational content sequentially."
       
-      - title: Generator Podpisów do Oprawionych Obrazów dla firmy JanAr na automacie
+      - title: Signature Generator for Framed Images for JanAr company on a machine
         link: "https://github.com/kamilkaczmareksolutions/JanAr"
-        tagline: "Aplikacja z GUI (Streamlit) wykorzystująca modele GPT do automatycznego generowania angażujących opisów do portfolio w mediach społecznościowych. Stworzona dla warsztatu szklarskiego i firmy zajmującej się oprawą obrazów 'JanAr', łączy moc GPT-4-Vision z zachęcającą do udzielania się pod postami strukturą."
+        tagline: "A GUI application (Streamlit) using GPT models to automatically generate engaging descriptions for social media portfolios. Created for the glass workshop and picture framing company 'JanAr', it combines the power of GPT-4-Vision with a structure that encourages engagement under posts."
       
-      - title: Konfigurowalny generator przepisów na masę
+      - title: Configurable Bulk Recipe Generator
         link: "https://github.com/kamilkaczmareksolutions/Recipe_Generator"
-        tagline: "Prosta aplikacja z GUI wykorzystująca API od OpenAI do generowania przepisów dostosowanych do indywidualnych celów użytkownika, mająca dużo opcji na konfigurację."
+        tagline: "A simple GUI application using the OpenAI API to generate recipes tailored to individual user goals, with many configuration options."
 
 skills:
-    title: Umiejętności i biegłość
+    title: Skills and Proficiency
 
     toolset:
       - name: Prompt engineering
         level: 98%
       
-      - name: Automatyzacja i optymalizacja procesów
+      - name: Process Automation and Optimization
         level: 88%
 
       - name: Excel (Macro & VBA)
         level: 82%
 
-      - name: Analiza i zarządzanie danymi
+      - name: Data Analysis and Management
         level: 78%
 
-      - name: Rozwój oprogramowania
+      - name: Software Development
         level: 74%
 
       - name: Python
         level: 68%
 
 footer: >
-    „Innowacyjność i wydajność. Pasjonat AI i technologii.”
+    “Innovation and efficiency. An AI and technology enthusiast.”
