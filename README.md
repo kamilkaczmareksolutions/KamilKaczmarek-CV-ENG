@@ -5,7 +5,9 @@ Welcome to my professional CV repository! This repository hosts the source code 
 🔗 **View My CV**: [Kamil Kaczmarek's CV](https://kamilkaczmareksolutions.github.io/KamilKaczmarek-CV-ENG/)
 
 ## About this Repository
-This repository is a fork of the `online-cv` Jekyll theme, customized to present my professional profile. It's updated regularly with my latest professional achievements.
+This repository is a fork of the `online-cv` Jekyll theme, originally created by [sharu725](https://github.com/sharu725). It's customized to present my professional profile and is updated regularly with my latest professional achievements.
+
+A special thanks to `sharu725` for developing such a versatile and easy-to-use Jekyll theme!
 
 ## Contact Me
 For professional inquiries, please contact me through [LinkedIn](https://www.linkedin.com/in/kamilkaczmareksolutions/) or write an e-mail here: [E-mail](mailto:contact@kamilkaczmareksolutions.com).
