@@ -128,6 +128,10 @@ projects:
         link: "https://github.com/kamilkaczmareksolutions/Recipe_Generator"
         tagline: "A simple GUI application using the OpenAI API to generate recipes tailored to individual user goals, with many configuration options."
 
+      - title: Advanced GPT-4 Prompt Crafting
+        link: "https://github.com/kamilkaczmareksolutions/AdvancedGPT4PromptCrafting"
+        tagline: "Focused on enhancing GPT-4 interactions, this project delves into effective prompt crafting techniques. It offers a guide on creating efficient system prompts, aimed at optimizing AI's performance in diverse scenarios."
+
 skills:
     title: Skills and Proficiency
 
