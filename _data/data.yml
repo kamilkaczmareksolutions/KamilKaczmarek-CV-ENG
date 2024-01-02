@@ -116,13 +116,13 @@ projects:
       I focus on practical applications that streamline processes and improve UX.
       Above all, I am dedicated to building solutions that relieve the burden of performing repetitive tasks.
     assignments:
-      - title: Research Automation, Presentation Structure, and Narration, or the skeleton for a series of educational films
+      - title: Research Automation, Presentation Structure, and Narration, and the skeleton for a series of educational films
         link: "https://github.com/kamilkaczmareksolutions/Educational_Video_Series_Automation_Project"
         tagline: "A project automating 80% of the work in creating educational video series, using Custom GPTs, Python, and DALL·E to create comprehensive topic outlines. Produces engaging educational content sequentially."
       
-      - title: Signature Generator for Framed Images for JanAr company on a machine
+      - title: Caption Generator for Framed Art for JanAr company
         link: "https://github.com/kamilkaczmareksolutions/JanAr"
-        tagline: "A GUI application (Streamlit) using GPT models to automatically generate engaging descriptions for social media portfolios. Created for the glass workshop and picture framing company 'JanAr', it combines the power of GPT-4-Vision with a structure that encourages engagement under posts."
+        tagline: "A GUI application (Streamlit) using GPT models to automatically generate engaging captions for social media portfolios. Created for the glass workshop and picture framing company 'JanAr', it combines the power of GPT-4-Vision with a structure that encourages engagement under posts."
       
       - title: Configurable Bulk Recipe Generator
         link: "https://github.com/kamilkaczmareksolutions/Recipe_Generator"
