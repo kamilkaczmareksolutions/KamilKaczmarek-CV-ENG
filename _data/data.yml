@@ -9,12 +9,12 @@ sidebar:
 
     # Profile information
     name: Kamil Kaczmarek
-    tagline: Solution Design Specialist
+    tagline: IT Intern
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: recruitment@kamilkaczmareksolutions.com
-    phone: +48 516 526 487
+    phone: +48 787 633 442
     website: #do not add http://
     linkedin: kamilkaczmareksolutions
     xing:
@@ -52,53 +52,50 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      An innovative and versatile professional interested in creating customized client solutions and developing artificial intelligence.
+      Interested in creating customized client solutionsm developing artificial intelligence and cybersecurity.
       Familiar with Python to the extent of creating solutions from scratch, skilled in process optimization, and experienced in building procedures.
       Proficient in applying cutting-edge technologies regardless of the environment and conditions.
-      Currently intensively learning machine learning, especially TensorFlow, PyTorch, Keras, and NLP, with a 100% focus on the world of AI.
-
+      
 education:
     title: Education
     info:
       - degree: Bachelor's Degree in Marketing and Sales
         university: WSB Merito University Chorzów
-        time: 2020 - 2023
+        time: 2020 - 2024
         details: |
           Specialization: E-commerce and sales in new media, strong interest in AI topics. 
-          Bachelor thesis on: The Use of AI in Marketing Activities of Enterprises - A Case Study.
+          Bachelor thesis on: Artificial intelligence in enterprise - Theoretical foundations and practical applications in the era of digital transformation.
 
 experiences:
     title: Experience
     info:
-      - role: Owner
+      - role: Own business
         time: June 2023 - Present
         company: Kamil Kaczmarek Solutions
         details: |
           Responsibilities and strengths:
-          - Creating custom software, AI-based applications (mainly models from OpenAI).
-          - Programming in Python, prompt engineering, and Streamlit UI.
-          - Utilizing APIs in various projects.
-          - Creating and automating processes and procedures, innovative solutions.
-          - Designing and integrating systems, continuous learning and application of the latest technologies.
+          - Developing simple solutions for clients, apps with OpenAI APIs underneath.
+          - Python, prompt engineering.
+          - Creation and automation of processes and procedures, system design and integration.
       
-      - role: Project Coordinator
+      - role: Administrative Clerk
         time: November 2022 - October 2023
         company: Alpha Workforce LTD, Rotterdam
         details: |
-          Responsibilities and strengths:
-          - Coordination of employee logistics using digital tools, including AI, Python, ActiveCampaign, flotman, optimoroute, Macro VBA (Excel), and others.
-          - Large-scale project management focusing on building processes and procedures, then automating them.
-          - Implementing AI in daily tasks to improve work and management efficiency (mainly delegating repetitive tasks to AI, creating simple apps with UI).
+          - Administrative work.
+          - Coordinate employee logistics using digital tools, including AI, ActiveCampaign, fleetman, optimoroute, Macro VBA (Excel) and others.
+          - Assist with large-scale project management (~300 employees) with a focus on building processes and procedures, with automation as the next step.
+          - Implementing AI in daily tasks for streamlining work and management (primarily delegating repetitive tasks to AI, creating simple UI apps).
       
       - role: Marketing Consultant
         time: April 2020 - November 2022
         company: Freelance
         details: |
           Responsibilities and strengths:
-          - Digital Marketing using GPT (then generation 2 and 3), building ChatBots, Zapier, Macro VBA (Excel), various ad managers (Meta/TikTok).
-          - Developing and implementing online brand awareness strategies, managing systems (e.g., Booksy, Moment).
-          - Email and SMS campaigns.
-          - System integration, strategic planning, multi-platform advertising, customer relationship management.
+          - Building ChatBots (ManyChat), Zapier, Macro VBA (Excel), various ad managers (Meta/TikTok).
+          - Development and implementation of online brand awareness strategies, management of systems (e.g. Booksy, Moment).
+          - Mailing and SMS campaigns.
+          - Systems integration, strategic planning, multi-platform advertising, customer relationship management.
           - Proficiency in digital tools and platforms, diverse projects.
       
       - role: Data Collector
@@ -106,16 +103,16 @@ experiences:
         company: FlightScope - European Golf Tour
         details: |
           Responsibilities and strengths:
-          - Performing measurements during European Tour golf tournaments, operating the GPS system.
-          - Providing high-quality real-time data for bookmakers, training Neural Networks, high precision, international experience.
-          - Fast data processing, high accuracy, ability to work under high stress, adaptation to various environments.    
+          - Taking measurements during European Tour golf tournaments, GPS support.
+          - Provide high quality real-time data for bookmakers, assist in training Neural Networks (data labeling), high precision, international experience.
+          - Fast data processing, high accuracy, ability to work in high stress situations, adaptability to different environments.    
 
 projects:
     title: Projects
     intro: >
-      Software solutions utilizing AI and data management.
+      Software solutions using AI and data management.
       I focus on practical applications that streamline processes and improve UX.
-      Above all, I am dedicated to building solutions that relieve the burden of performing repetitive tasks.
+      Above all, I care about building solutions that take the need for repetitive tasks off the shoulders.
     assignments:
       - title: Research Automation, Presentation Structure, and Narration, and the skeleton for a series of educational films
         link: "https://github.com/kamilkaczmareksolutions/Educational_Video_Series_Automation_Project"
@@ -156,4 +153,4 @@ skills:
         level: 68%
 
 footer: >
-    “Innovation and efficiency. An AI and technology enthusiast.”
+    Passionate about AI and technology.
