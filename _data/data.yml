@@ -77,6 +77,7 @@ experiences:
           - Developing simple solutions for clients, apps with OpenAI APIs underneath.
           - Python, prompt engineering.
           - Creation and automation of processes and procedures, system design and integration.
+          - Vulnerability analysis (SharpHound, BloodHound), OSINT
       
       - role: Administrative Clerk
         time: November 2022 - October 2023
