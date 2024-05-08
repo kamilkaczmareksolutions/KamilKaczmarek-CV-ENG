@@ -26,7 +26,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://kamilkaczmareksolutions.com/thesis
+    pdf: https://kamilkaczmareksolutions.com/cv-download-eng
 
     languages:
       title: Languages
@@ -40,13 +40,16 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Software Development
+        - item: Solutions Development
           link:
 
-        - item: AI and Machine Learning
+        - item: AI
           link:
 
         - item: Process Automation
+          link:
+
+        - item: Cybersecurity
           link:
 
 career-profile:
@@ -83,6 +86,7 @@ experiences:
         time: November 2022 - October 2023
         company: Alpha Workforce LTD, Rotterdam
         details: |
+          Responsibilities and strengths:
           - Administrative work.
           - Coordinate employee logistics using digital tools, including AI, ActiveCampaign, fleetman, optimoroute, Macro VBA (Excel) and others.
           - Assist with large-scale project management (~300 employees) with a focus on building processes and procedures, with automation as the next step.
@@ -115,21 +119,29 @@ projects:
       I focus on practical applications that streamline processes and improve UX.
       Above all, I care about building solutions that take the need for repetitive tasks off the shoulders.
     assignments:
-      - title: Research Automation, Presentation Structure, and Narration, and the skeleton for a series of educational films
-        link: "https://github.com/kamilkaczmareksolutions/Educational_Video_Series_Automation_Project"
-        tagline: "A project automating 80% of the work in creating educational video series, using Custom GPTs, Python, and DALL·E to create comprehensive topic outlines. Produces engaging educational content sequentially."
-      
       - title: Caption Generator for Framed Art for JanAr company
         link: "https://github.com/kamilkaczmareksolutions/JanAr"
         tagline: "A GUI application (Streamlit) using GPT models to automatically generate engaging captions for social media portfolios. Created for the glass workshop and picture framing company 'JanAr', it combines the power of GPT-4-Vision with a structure that encourages engagement under posts."
       
+      - title: Research Automation, Presentation Structure, and Narration, and the skeleton for a series of educational films
+        link: "https://github.com/kamilkaczmareksolutions/Educational_Video_Series_Automation_Project"
+        tagline: "A project automating 80% of the work in creating educational video series, using Custom GPTs, Python, and DALL·E to create comprehensive topic outlines. Produces engaging educational content sequentially."
+                
       - title: Configurable Bulk Recipe Generator
         link: "https://github.com/kamilkaczmareksolutions/Recipe_Generator"
         tagline: "A simple GUI application using the OpenAI API to generate recipes tailored to individual user goals, with many configuration options."
 
-      - title: Advanced GPT-4 Prompt Crafting
-        link: "https://github.com/kamilkaczmareksolutions/AdvancedGPT4PromptCrafting"
-        tagline: "Focused on enhancing GPT-4 interactions, this project delves into effective prompt crafting techniques. It offers a guide on creating efficient system prompts, aimed at optimizing AI's performance in diverse scenarios."
+publications:
+    title: Publications
+    
+    papers:
+      - title: Artificial intelligence in enterprise - Theoretical foundations and practical applications in the era of digital transformation
+        link: "https://kamilkaczmareksolutions.com/thesis"
+        authors: Bachelor thesis, 2024
+
+      - title: Improving GPT-4 Performance - Practical Strategies
+        link: "https://www.linkedin.com/pulse/improving-gpt-4-performance-practical-strategies-kamil-kaczmarek-rffif/?trackingId=ygQQl9xpSRSGCs4ylik97g%3D%3D"
+        authors: Model control guide, 2024
 
 skills:
     title: Skills and Proficiency
@@ -137,6 +149,12 @@ skills:
     toolset:
       - name: Prompt engineering
         level: 98%
+
+      - name: Research
+        level: 94%
+
+      - name: Problem solving
+        level: 90%
       
       - name: Process Automation and Optimization
         level: 88%
@@ -147,8 +165,14 @@ skills:
       - name: Data Analysis and Management
         level: 78%
 
+      - name: OSINT
+        level: 76%
+
       - name: Software Development
         level: 74%
+
+      - name: Cybersecurity
+        level: 70%
 
       - name: Python
         level: 68%
