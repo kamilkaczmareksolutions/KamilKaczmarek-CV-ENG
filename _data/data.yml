@@ -55,9 +55,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Interested in creating customized client solutionsm developing artificial intelligence and cybersecurity.
-      Familiar with Python to the extent of creating solutions from scratch, skilled in process optimization, and experienced in building procedures.
-      Proficient in applying cutting-edge technologies regardless of the environment and conditions.
+      I'm interested in creating customized client solutions, developing artificial intelligence and cybersecurity.
+      I'm skilled in process optimization, experienced in building procedures and proficient in applying cutting-edge technologies regardless of the environment and conditions.
       
 education:
     title: Education
@@ -76,7 +75,6 @@ experiences:
         time: June 2023 - Present
         company: Kamil Kaczmarek Solutions
         details: |
-          Responsibilities and strengths:
           - Developing simple solutions for clients, apps with OpenAI APIs underneath.
           - Python, prompt engineering.
           - Creation and automation of processes and procedures, system design and integration.
@@ -86,7 +84,6 @@ experiences:
         time: November 2022 - October 2023
         company: Alpha Workforce LTD, Rotterdam
         details: |
-          Responsibilities and strengths:
           - Administrative work.
           - Coordinate employee logistics using digital tools, including AI, ActiveCampaign, fleetman, optimoroute, Macro VBA (Excel) and others.
           - Assist with large-scale project management (~300 employees) with a focus on building processes and procedures, with automation as the next step.
@@ -96,7 +93,6 @@ experiences:
         time: April 2020 - November 2022
         company: Freelance
         details: |
-          Responsibilities and strengths:
           - Building ChatBots (ManyChat), Zapier, Macro VBA (Excel), various ad managers (Meta/TikTok).
           - Development and implementation of online brand awareness strategies, management of systems (e.g. Booksy, Moment).
           - Mailing and SMS campaigns.
@@ -107,7 +103,6 @@ experiences:
         time: April 2019 - April 2020
         company: FlightScope - European Golf Tour
         details: |
-          Responsibilities and strengths:
           - Taking measurements during European Tour golf tournaments, GPS support.
           - Provide high quality real-time data for bookmakers, assist in training Neural Networks (data labeling), high precision, international experience.
           - Fast data processing, high accuracy, ability to work in high stress situations, adaptability to different environments.    
