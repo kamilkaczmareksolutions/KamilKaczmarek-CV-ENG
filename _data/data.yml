@@ -138,30 +138,30 @@ publications:
         link: "https://www.linkedin.com/pulse/improving-gpt-4-performance-practical-strategies-kamil-kaczmarek-rffif/?trackingId=ygQQl9xpSRSGCs4ylik97g%3D%3D"
         authors: Model control guide, 2024
 
-skills:
-    title: Skills and Proficiency
-
-    toolset:
-      - name: Prompt engineering
-        level: 98%
-
-      - name: Research & OSINT
-        level: 94%
-
-      - name: Problem solving
-        level: 90%
-      
-      - name: Excel (Macro & VBA)
-        level: 82%
-
-      - name: Data Analysis and Management
-        level: 78%
-
-      - name: Software Development
-        level: 74%
-
-      - name: Cybersecurity
-        level: 70%
+#skills:
+#    title: Skills and Proficiency
+#
+#    toolset:
+#      - name: Prompt engineering
+#        level: 98%
+#
+#      - name: Research & OSINT
+#        level: 94%
+#
+#      - name: Problem solving
+#        level: 90%
+#      
+#      - name: Excel (Macro & VBA)
+#        level: 82%
+#
+#      - name: Data Analysis and Management
+#        level: 78%
+#
+#      - name: Software Development
+#        level: 74%
+#
+#      - name: Cybersecurity
+#        level: 70%
 
 footer: >
     Passionate about AI and technology.
