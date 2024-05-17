@@ -107,6 +107,29 @@ experiences:
           - Provide high quality real-time data for bookmakers, assist in training Neural Networks (data labeling), high precision, international experience.
           - Fast data processing, high accuracy, ability to work in high stress situations, adaptability to different environments.    
 
+certifications:
+      title: Certifications
+      list:
+        - name: Getting Started with ThreatGEN® Red vs. Blue
+          start: 2024
+          end: 
+          organization: ThreatGEN
+          credentialid: o8zktplxud
+          credentialurl: portal.threatgen.com/certificates/o8zktplxud
+          credentialname: Getting Started with ThreatGEN® Red vs. Blue
+          details: |
+            
+            
+        - name: Red vs. Blue Cyber Simulation Range
+          start: 2024
+          end:
+          organization: ThreatGEN
+          credentialid: s8fayxwi0v
+          credentialurl: portal.threatgen.com/certificates/s8fayxwi0v
+          credentialname: Red vs. Blue Cyber Simulation Range
+          details: |
+            
+
 projects:
     title: Projects
     intro: >
