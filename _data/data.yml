@@ -110,6 +110,16 @@ experiences:
 certifications:
       title: Certifications
       list:
+        - name: Introduction to Cyber Security
+          start: 2024
+          end: 
+          organization: TryHackMe | Cyber Security Training
+          credentialid: THM-FPKWGYOCUT
+          credentialurl: tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FPKWGYOCUT.png
+          credentialname: Introduction to Cyber Security
+          details: |
+
+        
         - name: Getting Started with ThreatGEN® Red vs. Blue
           start: 2024
           end: 
