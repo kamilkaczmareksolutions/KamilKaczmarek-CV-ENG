@@ -110,6 +110,16 @@ experiences:
 certifications:
       title: Certifications
       list:
+        - name: CyberTek Tech Festival 2024
+          start: 2024
+          end: 
+          organization: CyberTek Tech Festival
+          credentialid: 5af19b7a-ee9c-4cc8-9e47-2aad8ec91996
+          credentialurl: credsverse.com/credentials/5af19b7a-ee9c-4cc8-9e47-2aad8ec91996
+          credentialname: CyberTek Tech Festival 2024
+          details: |
+            I attended a two-day festival in Katowice, earning CPE credits through lectures on advanced topics in OT cybersecurity, incident response, and risk analysis.
+
         - name: Pre Security
           start: 2024
           end: 
@@ -118,7 +128,7 @@ certifications:
           credentialurl: tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-JQPSIP1Q26.png
           credentialname: Pre Security
           details: |
-
+            I gained foundational knowledge in cybersecurity, including networking, operating system basics, and security principles.
         
         - name: Introduction to Cyber Security
           start: 2024
@@ -128,7 +138,7 @@ certifications:
           credentialurl: tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FPKWGYOCUT.png
           credentialname: Introduction to Cyber Security
           details: |
-
+            I acquired comprehensive skills in cybersecurity, covering defensive strategies, SOC operations, digital forensics, and ethical hacking.
         
         - name: Getting Started with ThreatGEN® Red vs. Blue
           start: 2024
@@ -138,7 +148,7 @@ certifications:
           credentialurl: portal.threatgen.com/certificates/o8zktplxud
           credentialname: Getting Started with ThreatGEN® Red vs. Blue
           details: |
-            
+            I completed training on ThreatGEN® Red vs. Blue game-based cybersecurity simulation, focusing on live defensive and offensive operations.
             
         - name: Red vs. Blue Cyber Simulation Range
           start: 2024
@@ -148,7 +158,7 @@ certifications:
           credentialurl: portal.threatgen.com/certificates/s8fayxwi0v
           credentialname: Red vs. Blue Cyber Simulation Range
           details: |
-            
+            I competed in live, head-to-head cybersecurity simulations, defending and attacking computer networks and industrial systems.
 
 projects:
     title: Projects
